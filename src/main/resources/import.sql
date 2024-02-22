@@ -1,0 +1,1 @@
+INSERT INTO usuario (nombre, password, rol) VALUES ('saul', '$2a$10$K3ERLp06s91.e70Q6T0eV.jZKAxbKI37zO3uxikL/eN1gyjTLoX8K', 0); --pass 123
